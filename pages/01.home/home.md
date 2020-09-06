@@ -1,6 +1,6 @@
 ---
-title: photon STARTER
-subtitle: skeleton configuration for rapid web initialization
+title: illumiphi
+subtitle: content development services
 author: /home
 content:
     items: '@root.children'
@@ -10,7 +10,7 @@ taxonomy:
         - showcase
 ---
 
-- This is a starter skeleton for the<br>photon ✴ PLATFORM
+- Shine your light
 
 
 ===
