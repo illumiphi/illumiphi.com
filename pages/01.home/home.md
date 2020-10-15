@@ -1,10 +1,14 @@
 ---
 title: illumiphi
 subtitle: content development services
-author: /home
-content:
-    items: '@root.children'
 menu: Home
+content:
+    title: 'Top Sections'
+    items: 
+        '@taxonomy.photon': header
+    order:
+        by: default
+        dir: asc
 taxonomy:
     photon:
         - showcase
